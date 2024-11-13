@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a sophomore student studying Computer Science in National Taiwan university, NTU. <br>I had an internship at ASUS, Taiwan, for 2 months(2024/7~2024/8).<br>Please contact me through email, edmondtaipei@gmail.com.
+I'm currently a sophomore student studying Computer Science in National Taiwan university, NTU. <br>I had an internship at ASUS, Taiwan, as a Research and Development Intern, for two months. <br>Please contact me through email, edmondtaipei@gmail.com.
 
 
 ## 🌐 Socials:
